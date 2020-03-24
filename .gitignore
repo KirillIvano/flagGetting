@@ -1,2 +1,4 @@
 node_modules/
 helpers/
+venv/
+operadriver.exe

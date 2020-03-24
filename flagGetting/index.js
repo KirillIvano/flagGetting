@@ -10,7 +10,6 @@ const {
     level1RefSelector,
     level2ButtonSelector,
     level3ButtonSelector,
-    level4ExpressionSelector,
     level4FormSelector
 } = require('./selectors');
 
